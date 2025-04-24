@@ -1,21 +1,6 @@
-git clone https://github.com/seu_usuario/inteligencia-artificial-portifolio.git
-cd inteligencia-artificial-portifolio
 
-Portfólio de Inteligência Artificial e Gestão de TI - Wallace
-
-Este repositório reúne projetos desenvolvidos como extensão prática do TCC "História da Inteligência Artificial" de Wallace Antunes Souza, combinando Engenharia de Software com Gestão de Tecnologia da Informação.
-
-
----
-
-Projetos
-
-1. Chatbot Estilo ELIZA (Python)
-
-Simulação de conversas com base em regras pré-definidas.
 
 Arquivo: chatbot_eliza_clone.py
-
 import nltk
 from nltk.chat.util import Chat, reflections
 
@@ -33,11 +18,6 @@ if __name__ == "__main__":
     chatbot.converse()
 
 
----
-
-2. Classificador Simples de Aplicações de IA (Python + Scikit-learn)
-
-Modelo de aprendizado de máquina que identifica a área de aplicação de uma frase.
 
 Arquivo: classificador_simples.py
 
@@ -62,7 +42,7 @@ amostra = ["Reconhecimento de imagem para diagnóstico médico"]
 print("Categoria prevista:", modelo.predict(amostra)[0])
 
 
----
+
 
 3. Visão Estratégica de Gestão de TI (em construção)
 
@@ -94,14 +74,10 @@ Wallace Antunes Souza é Engenheiro de Software em formação, com MBA em Gestã
 
 
 
----
+
 
 Licença: MIT
 
-Contato: linkedin.com/in/seu-perfil (atualize com seu perfil real)
+Contato: linkedin.com/in/seu-perfil 
 
-
----
-
-Projeto em evolução — mais atualizações em breve.
 
